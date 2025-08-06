@@ -17,7 +17,7 @@ print(("New lines can be created with a \ and the letter n")
 
 Meu código:
 
-```python]
+```python
 print("Notes from Day 1")
 print("The print statement is used to output strings")
 print("Strings are strings of characters")
